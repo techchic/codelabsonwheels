@@ -1,4 +1,6 @@
 @import "bootstrap";
+@import "bootstrap";
+
 
 /* universal */
 
@@ -47,4 +49,8 @@ h2 {
 p {
   font-size: 1.1em;
   line-height: 1.7em;
+}
+logo.resize{
+   width:200px;
+   height:40px;
 }
